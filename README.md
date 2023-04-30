@@ -1,4 +1,4 @@
-# Master_Thesis
+# AILA
 artificial intelligence law
 ## TWLJP Dataset
 自司法院裁判書系統，整理自民國107年至110年之刑事起訴書及裁判書之資料。
