@@ -7,3 +7,7 @@ artificial intelligence law
 Here the dataset link: https://drive.google.com/drive/folders/13qBKAIz7DOMIkOZezWpwX1v0DQnXZP0d?usp=share_link
 
 Before filtering out freq<30 charge, we have 125891 cases in total.
+
+
+## Model
+### Contrastive Learning
