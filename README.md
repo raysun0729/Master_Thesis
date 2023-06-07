@@ -6,8 +6,10 @@ artificial intelligence law
 
 > Here the dataset link: https://drive.google.com/drive/folders/13qBKAIz7DOMIkOZezWpwX1v0DQnXZP0d?usp=share_link
 
-Before filtering out freq<30 charge, we have 125891 cases in total.
-
+Before filtering out freq<30 charge, we have 280k cases in total.
+data: train_law, valid_law, test_law
 
 ## Model
-### Contrastive Learning
+### Bert
+python train.py --config bert_law.config --do_test
+for baseline
